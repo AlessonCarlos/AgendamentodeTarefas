@@ -1,9 +1,4 @@
-# Remove o README atual
-rm README.md
 
-# Cria o novo README formatado
-echo "# DIO - Trilha .NET - API e Entity Framework
-www.dio.me
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
